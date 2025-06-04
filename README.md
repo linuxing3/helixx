@@ -18,6 +18,8 @@
 
 ![Screenshot](./screenshot.png)
 
+
+Win32 releases 
 A [Kakoune](https://github.com/mawww/kakoune) / [Neovim](https://github.com/neovim/neovim) inspired editor, written in Rust.
 
 The editing model is very heavily based on Kakoune; during development I found
