@@ -94,9 +94,9 @@ jobs:
         #   rust: stable-x86_64-gnu
         #   target: x86_64-pc-windows-gnu
         - build: win32-msvc
-            os: windows-2019
-            rust: stable
-            target: i686-pc-windows-msvc
+          os: windows-2019
+          rust: stable
+          target: i686-pc-windows-msvc
 
     steps:
       - name: Checkout sources
